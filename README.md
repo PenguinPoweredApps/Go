@@ -1,2 +1,2 @@
 # Go
-Go lang source code
+My Golang playground - a space for code experiments and reusable components.
